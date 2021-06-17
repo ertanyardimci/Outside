@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Outside</string>
+    <string name="rainy_day_aphorism">When that I was and a little tiny boy,
+With hey, ho, the wind and the rain,
+A foolish thing was but a toy,
+For the rain it raineth every day …
+
+    -William Shakespeare</string>
+    <string name="snow_day_aphorism">I leant upon a coppice gate,
+When Frost was spectre-gray,
+And Winter’s dregs made desolate
+The weakening eye of day.
+The tangled bine-stems scored the sky
+Like strings of broken lyres,
+And all mankind that haunted nigh
+Had sought their household fires…
+
+    -Thomas Hardy</string>
+    <string name="randomly">If it\'s time to buy iron now,
+A ship to the unknown departs from this port.
+The road takes silently as if it had no passengers;
+Neither a handkerchief nor an arm does not shake on that take off.
+Those who stay at the quay are sad from this trip,
+He stares at the black horizon for days, his eyes moist.
+Desperate hearts! This is neither the last ship that goes!
+What the last mourning of a life of anger</string>
+
+</resources>
